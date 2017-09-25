@@ -1,1 +1,63 @@
-/* Your CSS styles go here */
+html {
+  background: url(image/bac.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.content{
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 40px;
+  height: 300px;
+  width: 500px;
+  margin: 100px auto;
+
+}
+.profile_pic{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+.object{
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 40px;
+  height: auto;
+  width: 500px;
+  margin: 100px auto;
+}
+.academic{
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 40px;
+  height: auto;
+  width: 500px;
+  margin: 100px auto;
+}
+.strength{
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 40px;
+  height: auto;
+  width: 500px;
+  margin: 100px auto;
+}
+.per{
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 40px;
+  height: auto;
+  width: 500px;
+  margin:  auto;
+}
+.social{
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 40px;
+  height: auto;
+  width: 500px;
+  margin: 100px auto;
+  font-size: 40px;
+  font-size: 40px;
+}
