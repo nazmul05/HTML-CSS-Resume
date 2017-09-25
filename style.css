@@ -1,5 +1,5 @@
 html {
-  background: url(image/bac.jpg) no-repeat center center fixed;
+  background: url(image/2.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -10,8 +10,8 @@ html {
   color: white;
   padding: 40px;
   height: 300px;
-  width: 500px;
-  margin: 100px auto;
+  width: 250px;
+  margin: 50px auto;
 
 }
 .profile_pic{
@@ -24,40 +24,50 @@ html {
   color: white;
   padding: 40px;
   height: auto;
-  width: 500px;
-  margin: 100px auto;
+  width: 250px;
+  margin: 50px auto;
 }
 .academic{
   background-color: rgba(0, 0, 0, 0.7);
   color: white;
   padding: 40px;
   height: auto;
-  width: 500px;
-  margin: 100px auto;
+  width: 280px;
+  margin: 50px auto;
 }
 .strength{
   background-color: rgba(0, 0, 0, 0.7);
   color: white;
   padding: 40px;
   height: auto;
-  width: 500px;
-  margin: 100px auto;
+  width: 250px;
+  margin: 50px auto;
 }
 .per{
   background-color: rgba(0, 0, 0, 0.7);
   color: white;
   padding: 40px;
   height: auto;
-  width: 500px;
-  margin:  auto;
+  width: 250px;
+  margin: 50px auto;
 }
-.social{
+
+.contact{
   background-color: rgba(0, 0, 0, 0.7);
   color: white;
   padding: 40px;
   height: auto;
-  width: 500px;
-  margin: 100px auto;
+  width: 250px;
+  margin:  50px auto;
+}
+.social{
+
+  color: white;
   font-size: 40px;
-  font-size: 40px;
+  padding: 10px;
+  height: auto;
+  width: 250px;
+  margin: auto;
+
+
 }
